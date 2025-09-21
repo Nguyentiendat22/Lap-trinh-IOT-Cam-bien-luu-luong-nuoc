@@ -4,7 +4,7 @@
     </a>
 </h2>
 <h2 align="center">
-   CẢM BIẾN ĐO LƯU LƯỢNG NƯỚC, CẢNH BÁO RÒ RỈ NƯỚC 
+   CẢM BIẾN ĐO LƯU LƯỢNG NƯỚC & CẢNH BÁO RÒ RỈ NƯỚC 
 </h2>
 <div align="center">
     <p align="center">
@@ -18,7 +18,6 @@
 [![DaiNam University](https://img.shields.io/badge/DaiNam%20University-orange?style=for-the-badge)](https://dainam.edu.vn)
 
 </div>
-# 💧 Hệ thống đo lưu lượng nước & cảnh báo rò rỉ
 
 ## 1. Giới thiệu  
 Đây là một project môn **Lập trình IoT** sử dụng cảm biến lưu lượng nước để đo **lưu lượng tức thời (L/min)**, **tổng thể tích (Lít)**, đồng thời đưa ra **cảnh báo rò rỉ** khi lưu lượng quá thấp hoặc quá cao bất thường.  
