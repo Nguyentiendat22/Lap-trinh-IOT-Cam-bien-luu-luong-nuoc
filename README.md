@@ -153,4 +153,6 @@ void loop() {
 4. Mở **Serial Monitor** (115200 baud).  
 
 ### 📊 Kết quả hiển thị  
-Ví dụ Serial Monitor:  
+Ví dụ Serial Monitor:  Xung/s: 1671 | Luu Luong: 17.051/min | Tong: 10.525 L | Trung binh: 10.525 L/min.
+Xung/s: 1697 | Luu Luong: 17.316/min | Tong: 10.814 L | Trung binh: 10.814 L/min.
+Xung/s: 1697 | Luu Luong: 17.316/min | Tong: 10.814 L | Trung binh: 10.814 L/min. 
